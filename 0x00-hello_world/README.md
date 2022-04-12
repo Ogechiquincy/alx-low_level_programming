@@ -1,1 +1,1 @@
-# C - hello, word
+0x00-hello, world
