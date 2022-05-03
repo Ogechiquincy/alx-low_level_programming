@@ -1,1 +1,1 @@
-libmy.a, main.h task
+create_static_lib.sh
