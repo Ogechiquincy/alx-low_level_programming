@@ -1,7 +1,4 @@
-#include <stdlib.h>
-#include <stdio.h>
 #include "main.h"
-
 /**
 * File: 1-print_binary.c
  * Author: Yovo Koffi Vianney
